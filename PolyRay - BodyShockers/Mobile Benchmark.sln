@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{343EB129-99F6-FBE9-8D25-7C1956C55F40}") = "Mobile Benchmark", "Assembly-CSharp.csproj", "{4F83D62F-6BF9-577E-7747-785AA4242779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F83D62F-6BF9-577E-7747-785AA4242779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F83D62F-6BF9-577E-7747-785AA4242779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F83D62F-6BF9-577E-7747-785AA4242779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F83D62F-6BF9-577E-7747-785AA4242779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
